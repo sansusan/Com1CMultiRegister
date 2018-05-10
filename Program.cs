@@ -47,7 +47,7 @@ namespace ConsoleApp1
             ICatalogObject catalogObject1Cv8 = null;
             ICatalogObject mainConnector = null;
 
-            String dir1C = @"C:\Program Files (x86)\1cv8";
+            String dir1C = @"C:\Program Files\1cv8";
 
             Console.WriteLine("Каталог для поиска библиотек com: " + dir1C + "\n");
 
@@ -88,7 +88,7 @@ namespace ConsoleApp1
 
             List <info1C> verList = new List<info1C>();
 
-            String[] catalog1C = Directory.GetDirectories(@"C:\Program Files (x86)\1cv8", "8.*");
+            String[] catalog1C = Directory.GetDirectories(@"C:\Program Files\1cv8", "8.*");
 
             foreach (string path in catalog1C)
             {

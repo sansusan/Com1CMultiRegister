@@ -7,3 +7,12 @@ D:\Users\msk5552\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\o
 D:\Users\msk5552\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Release\ConsoleApp1.csproj.ResolveComReference.cache
 D:\Users\msk5552\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Release\ConsoleApp1.exe
 D:\Users\msk5552\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Release\ConsoleApp1.pdb
+C:\rep\Com1CMultiRegister\bin\Release\ConsoleApp1.exe.config
+C:\rep\Com1CMultiRegister\bin\Release\ConsoleApp1.exe
+C:\rep\Com1CMultiRegister\bin\Release\ConsoleApp1.pdb
+C:\rep\Com1CMultiRegister\bin\Release\Interop.COMAdmin.dll
+C:\rep\Com1CMultiRegister\obj\Release\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\rep\Com1CMultiRegister\obj\Release\Interop.COMAdmin.dll
+C:\rep\Com1CMultiRegister\obj\Release\ConsoleApp1.csproj.ResolveComReference.cache
+C:\rep\Com1CMultiRegister\obj\Release\ConsoleApp1.exe
+C:\rep\Com1CMultiRegister\obj\Release\ConsoleApp1.pdb
